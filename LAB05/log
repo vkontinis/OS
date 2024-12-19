@@ -1,0 +1,38 @@
+/home/vkontinis/Testing/OS/LAB05
+ tee
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+lab02.txt
+log
+  File: log
+  Size: 118       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 411394      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1282/vkontinis)   Gid: ( 1284/vkontinis)
+Access: 2024-12-19 13:48:24.137916638 +0200
+Modify: 2024-12-19 13:48:32.530004941 +0200
+Change: 2024-12-19 13:48:32.530004941 +0200
+ Birth: -
+file: invalid option -- 'a'
+Usage: file [-bcCdEhikLlNnprsSvzZ0] [--apple] [--extension] [--mime-encoding]
+            [--mime-type] [-e <testname>] [-F <separator>]  [-f <namefile>]
+            [-m <magicfiles>] [-P <parameter=value>] <file> ...
+       file -C [-m <magicfiles>]
+       file [--help]
+
+Command 'finde' not found, did you mean:
+
+  command 'findv' from deb polylib-utils (5.22.5-4+dfsg)
+  command 'find' from deb findutils (4.7.0-1ubuntu1)
+  command 'findg' from deb ncl-ncarg (6.6.2-1build4)
+
+Try: apt install <deb name>
+
+./lab02.txt
+./file.txt
+./file1.txt
+geia!!!!!!!!
+geia!!!!!!!!
